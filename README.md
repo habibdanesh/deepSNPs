@@ -4,12 +4,12 @@
 Team leads: Habib Daneshpajouh (Simon Fraser University, Canada), Sean La (University of British Columbia, Canada)
 
 Team members: <br/>
-Christopher Samson (University of Auckland, NZ)
-Hirak Sarkar (University of Maryland, USA)
-Manu Saraswat (University of British Columbia, Canada)
-Matthew Nguyen (Simon Fraser University, Canada)
-Nathaniel Evans (Oregon Health and Science University, USA)
-Sasha Maslova (University of British Columbia, Canada)
+Christopher Samson (University of Auckland, NZ) <br/>
+Hirak Sarkar (University of Maryland, USA) <br/>
+Manu Saraswat (University of British Columbia, Canada) <br/>
+Matthew Nguyen (Simon Fraser University, Canada) <br/>
+Nathaniel Evans (Oregon Health and Science University, USA) <br/>
+Sasha Maslova (University of British Columbia, Canada) <br/>
 Brian Lee (Simon Fraser University, Canada)
 
 ## Background
