@@ -1,4 +1,4 @@
-# An interpretable machine learning framework for detecting epistatic interactions between SNPs
+# An interpretable machine learning framework for detecting epistatic interactions between SNPs (Hackathon project)
 
 ## Background
 The majority of interesting phenotypes are polygenic in nature, but conventional methods for computing _sets_ of SNPs which are statistically associated with a particular phenotype are computationally intractable. In this project, participants will develop an open-source interpretable deep learning framework for predicting phenotypes given SNPs, and detecting epistatic interactions between these SNPs.
