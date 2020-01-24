@@ -1,7 +1,7 @@
 # An interpretable machine learning framework for detecting epistatic interactions between SNPs (Hackathon project)
 
 ## Team
-Team leads: Habib Daneshpajouh (Simon Fraser University, Canada), Sean La (University of British Columbia, Canada)  
+Team leads: Habib Daneshpajouh (Simon Fraser University, Canada), Sean La (University of British Columbia, Canada) <br/>
 Team members:
 Christopher Samson (University of Auckland, NZ)
 Hirak Sarkar (University of Maryland, USA)
