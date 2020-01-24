@@ -1,5 +1,16 @@
 # An interpretable machine learning framework for detecting epistatic interactions between SNPs (Hackathon project)
 
+## Team
+Team leads: Habib Daneshpajouh (Simon Fraser University, Canada), Sean La (University of British Columbia, Canada)
+Team members:
+Christopher Samson (University of Auckland, NZ)
+Hirak Sarkar (University of Maryland, USA)
+Manu Saraswat (University of British Columbia, Canada)
+Matthew Nguyen (Simon Fraser University, Canada)
+Nathaniel Evans (Oregon Health and Science University, USA)
+Sasha Maslova (University of British Columbia, Canada)
+Brian Lee (Simon Fraser University, Canada)
+
 ## Background
 The majority of interesting phenotypes are polygenic in nature, but conventional methods for computing _sets_ of SNPs which are statistically associated with a particular phenotype are computationally intractable. In this project, participants will develop an open-source interpretable deep learning framework for predicting phenotypes given SNPs, and detecting epistatic interactions between these SNPs.
 
